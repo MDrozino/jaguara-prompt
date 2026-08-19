@@ -217,8 +217,8 @@ Analise esses arquivos antes de implementar.
 
 ## Nomes e RA's:
 - Miguel Drozino 23155078-2
-- Micaela Dorneles
+- Micaela Dorneles 23150068-2
 - Nathan Rodrigues
-- Ricardo Guilhen
+- Ricardo Guilhen 23013569-2
 
 
