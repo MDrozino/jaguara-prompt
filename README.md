@@ -208,8 +208,8 @@ Analise esses arquivos antes de implementar.
 | # | Experimento | Contexto | Input | Output | Custo |
 |---|---|---|---:|---:|---:|
 | 1 | Teste A | Completo | 72 | 146 | US$ 0,60 |
-| 2 | Teste B — tentativa inicial | Curado | 58 | 133 | — |
-| 3 | Teste B — correção | Curado | 122 | 463 | — |
+| 2 | Teste B — tentativa inicial | Curado | 58 | 133 | 0,51 |
+| 3 | Teste B — correção | Curado | 122 | 463 | 1,09 |
 | **Total** | | | **252** | **742** | **US$ 1,69** |
 
 
