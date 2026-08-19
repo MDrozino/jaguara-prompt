@@ -213,12 +213,12 @@ Analise esses arquivos antes de implementar.
 | **Total** | | | **252** | **742** | **US$ 1,69** |
 
 
-## Imagens no pdf anexado
+## Imagens no pdf anexado System Prompt - Jaguara
 
 ## Nomes e RA's:
 - Miguel Drozino 23155078-2
 - Micaela Dorneles 23150068-2
-- Nathan Rodrigues
+- Nathan Rodrigues 23025003-2
 - Ricardo Guilhen 23013569-2
 
 
