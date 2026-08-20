@@ -1,4 +1,5 @@
 https://jaguara-prompt.vercel.app/
+obs: demora um pouco pra abrir por causa do vercel
 
 ## Escolha de projeto
 - Escolhemos o nosso projeto da escola de ti (jaguara) para implementarmos uma funcionalidade de cadastro de medicamento em pets, como o projeto ainda não entrou na fase de código, criei uma base para que o experimento fosse executado.
